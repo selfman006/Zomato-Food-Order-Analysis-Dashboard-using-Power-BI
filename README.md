@@ -47,5 +47,6 @@ Bar Charts: Visualize delivery charges by different time segments (Morning, Afte
 Line Charts: Show the trends in total orders and expenses year over year.
 
 Summary Table: A comparative view of expenses, orders, and discounts by food type.
+
 Dashboard
 ![image alt](https://github.com/selfman006/Zomato-Food-Order-Analysis-Dashboard-using-Power-BI/blob/main/zomato%20dashboard.png?raw=true)
